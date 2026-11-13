@@ -10,11 +10,16 @@ you watch what it clicks and it reads the notes you pin on the page.
 ## Add it
 
 1. Install [`kb`](https://github.com/stardino2lab/kbrowser), the terminal
-   browser this layout runs. It needs Rust and Chrome, Chromium or Edge:
+   browser this layout runs, and put it on your PATH. Download a build for
+   Windows or Linux from its
+   [releases page](https://github.com/stardino2lab/kbrowser/releases/latest),
+   or build it with Rust:
 
    ```
    cargo install --git https://github.com/stardino2lab/kbrowser
    ```
+
+   It needs Chrome, Chromium or Edge installed.
 
 2. In Herdr, ask your agent:
 
